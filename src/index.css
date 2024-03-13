@@ -1,15 +1,4 @@
-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 10px;
-    background-color: #ffffff; /* Цвет фона, добавьте свой цвет по желанию */
-}
-
-span {
-    text-align: right;
-}
-
-.logo {
-    max-height: 40px;
+* {
+    font-family: "Poppins", sans-serif;
+    scroll-behavior: smooth;
 }

@@ -1,7 +1,19 @@
-.first {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: auto;
+div.img {
+    justify-content: right;
 }
 
+.img {
+    width: 900px;
+    opacity: 0.9;
+}
+
+.open {
+    position: relative;
+}
+
+.deviz {
+    position: absolute;
+    top: 50%;
+    text-align: center;
+    width: 100%;
+}

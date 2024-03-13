@@ -1,0 +1,25 @@
+.h-wrapper {
+    padding: 1rem;
+}
+
+.h-menu {
+    display: inline-flex;
+    gap: 2rem;
+    align-items: center;
+}
+
+.flexCenter {
+    display: flex;
+    row-gap: 2rem;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.paddings {
+    padding: 1.5rem;
+}
+
+.h-container {
+    justify-content: space-between;
+}
